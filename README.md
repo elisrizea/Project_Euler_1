@@ -1,6 +1,6 @@
 
 # **Project Euler 1**
-    First 10 of the challenging mathematical/computer programming problems with solutions proposed by Project Euler.
+    First 10 of the challenging mathematical/computer programming problems proposed by Project Euler.
     (https://projecteuler.net/archives)[https://projecteuler.net/archives]
 
 # **Description:**

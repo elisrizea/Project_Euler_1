@@ -17,6 +17,6 @@
 
 # **Credits:**
     Alin Rizea
-    [https://www.linkedin.com/in/alin-rizea-b10368104/](https://www.linkedin.com/in/alin-rizea-b10368104/)
+    https://www.linkedin.com/in/alin-rizea-b10368104/
 
 

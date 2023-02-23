@@ -1,8 +1,8 @@
 
 # **Project Euler 1**
     First 10 of the challenging mathematical/computer programming problems proposed by Project Euler.
-    [(https://projecteuler.net/archives)[https://projecteuler.net/archives]](https://projecteuler.net/)
-
+    https://projecteuler.net
+    
 # **Description:**
     Project Euler is a series of challenging mathematical/computer programming problems 
     that will require more than just mathematical insights to solve. Although mathematics 
